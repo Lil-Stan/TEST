@@ -11,3 +11,5 @@ git clone https://github.com/Victory-Light410/Foundations-of-SWE-Team-Project.gi
 npm install 
 npm run dev
 
+For Test REPO change BASE path in vite.config to TEST (Name of repo)
+
